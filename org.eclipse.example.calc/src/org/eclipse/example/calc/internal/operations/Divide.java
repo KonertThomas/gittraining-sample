@@ -22,7 +22,7 @@ public class Divide extends AbstractOperation implements BinaryOperation {
 
 	@Override
 	public String getName() {
-		return ":";
+		return "/";
 	}
 
 }
